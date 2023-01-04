@@ -1,9 +1,6 @@
 # Dapp Scratch
 A command line interface for generating a Javascript module for interacting with a Solidity contract.
 
-## Tutorial
-[Dapp Scratch: a CLI for Building Dapps (and tutorial for building your first one)](https://medium.com/@billyrennekamp/dapp-scratch-a-cli-for-building-dapps-and-tutorial-for-building-your-first-one-5cabdff3771e)
-
 ## install
 ```
 npm install -g dapp-scratch
